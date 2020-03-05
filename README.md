@@ -1,9 +1,10 @@
 List of terms, questions and notes for reference. Will just dump here for easy searching w/ `cmd+f`
 
+
 ## General TCV Terms  
 
 **What is H&M?**  
-Stands for Hearts & Mind... which also needs an explanation. This is an interest level reserved for the top 20 companies.
+Stands for Hearts & Mind... which is an interest level reserved for the top 20 companies.
 
 **Lead Partner vs PVP**  
 _-_
@@ -27,7 +28,7 @@ it is calculated before fees and carry.  MOIC = (Realized Value + Unrealized Val
 [Read more](https://www.cobaltlp.com/blog/moic-private-equity/)
 
 
-**EBITDA** - _Earnings before interest, tax, depreciation and amortization_
+**EBITDA** - _Earnings before interest, tax, depreciation and amortization_  
 A measure of a company's operating performance. Essentially, it's a way to evaluate a company's 
 performance without having to factor in financing decisions, accounting decisions or tax environments.
 [Read more](https://investinganswers.com/dictionary/e/earnings-interest-tax-depreciation-and-amortizatio)
@@ -36,7 +37,7 @@ performance without having to factor in financing decisions, accounting decision
 **TAM** - _Total Addressable Market_  
 Term used to reference the revenue opportunity available for a product. Serves as a quick metric of the 
 underlying potential of a given opportunity. Can estimate how much of the market any company can gain if
-there were no competitors.[Read more](https://en.wikipedia.org/wiki/Total_addressable_market)
+there were no competitors. [Read more](https://en.wikipedia.org/wiki/Total_addressable_market)
 
 
 **TAM vs SAM vs SOM**  
@@ -47,6 +48,13 @@ there were no competitors.[Read more](https://en.wikipedia.org/wiki/Total_addres
 
 **P&L** - _Profit and Loss Statement_  
 Financial statement that summarizes the revenues, costs, and expenses incurred during a specified period. This, along with balance sheet and cash flow statements, are issued quarterly and annually by every public company. Synonymous w/ income statement. [Read more](https://www.investopedia.com/terms/p/plstatement.asp)
+
+**CIM** - _Confidential Investment Memorandum_  
+Document drafted by an M&A advisory firm or investment banker that provides a prospective buyer with the information to generate an initial offer. Typically, the book will not include a purchase price for the business, but will provide the prospective buyer sufficient information to appropriately value the acquisition. [Read more.](https://www.divestopedia.com/definition/898/confidential-information-memorandum-cim)
+
+
+**M&A** - _Mergers & Acquisitions_  
+_-_
 
 
 **NEED TO CONFIRM - FTE** - _Full-time equivalent_  
@@ -76,3 +84,14 @@ _-_
 **Example Investment Summary**  
 $30M, growing YoY, CEO likes TCV, etc…
 
+
+
+## List of articles to read:  
+
+https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/venture-capital-fund/
+
+https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/hedge-fund/
+
+https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/venture-capital-investing/
+
+https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/venture-capitalists/
