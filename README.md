@@ -4,14 +4,18 @@ List of terms, questions and notes for reference. Will just dump here for easy s
 ## General TCV Terms  
 
 **What is H&M?**  
-Stands for Hearts & Mind... which is an interest level reserved for the top 20 companies.
+Stands for "Hearts & Mind"... which is an interest level reserved for the top 20 companies.
 
-**Lead Partner vs PVP**  
-_-_
+**What is BPC?**  
+Stands for "Best Private Companies"... which is an interest level reserved for the top 100 companies.
+
+**What is a PVP**  
+Principal or VP. See `Pods & Heirarchy` for more info.
 
 **Pods & Heirarchy**  
-Teams are broken up into pods of analysts, associates and partners.  
-_Analyst -> Associate -> Partner_
+Teams are broken up into pods of analysts, associates and VP's. The pods all report to a Principal/Partner, but
+they're not usually involved in the day to day matters, instead pods are generally led by VP's.  
+_Analyst -> Associate -> VP -> **Principal/Partners**_
 
 
 ## VC & Finance Terms  
@@ -76,7 +80,7 @@ _-_
 
 
 **What are Deal Types** - _(Artemis, PIPE, VC-Backed)_
-- Artemis, named after the goddes of the hunt, is a term used for hidden gem companies. These companies are those that ?????
+- Artemis, named after the goddes of the hunt, is a term used for hidden gem companies. These companies are decently scaled, generating revenue (ideally growing), and have little to no previous funding.
 - PIPE (Private Investment In Public Equity) is when an investor buys stock directly from a public company below market price. This is how TCV invested in Netflix. [Read more](https://www.investopedia.com/terms/p/pipe.asp)
 - VC-Backed is the typical type of deal, where a private company is already raising funds with VC's.
 
