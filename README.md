@@ -1,23 +1,42 @@
 List of terms, questions and notes for reference. Will just dump here for easy searching w/ `cmd+f`
 
 
-## General TCV Terms  
+## General TCV Terms & Concepts  
 **What is a PVP**  
 Principal or VP. See `Pods & Heirarchy` for more info.
 
 **Pods & Heirarchy**  
 Teams are broken up into pods of analysts, associates and VP's. The pods all report to a Principal/Partner, but
-they're not usually involved in the day to day matters, instead pods are generally led by VP's.  
+they're not usually involved in the day to day matters, instead pods are generally led by VP's.
 
-- `Analyst -> Associate -> VP -> Principal/Partners`
+> Analyst -> Associate -> VP -> Principal/Partners
 
 
-~~**What is H&M?**~~ - _Deprecated_  
-~~Stands for "Hearts & Mind"... which is an interest level reserved for the top 20 companies.~~ 
+**What are Lead Sponsors**  
+Reserved for investors that have a majority stake in a company.
+Very useful to know, especially if the investor is a competitor.
 
-~~**What is BPC?**~~ - _Deprecated_  
-~~Stands for "Best Private Companies"... which is an interest level reserved for the top 100 companies.~~ - Will soon be deprecated.
 
+**What are Deal Types** - _(Artemis, PIPE, VC-Backed)_
+- Artemis, named after the goddes of the hunt, is a term used for hidden gem companies. These companies are decently scaled, generating revenue (ideally growing), and have little to no previous funding.
+- PIPE (Private Investment In Public Equity) is when an investor buys stock directly from a public company below market price. This is how TCV invested in Netflix. [Read more](https://www.investopedia.com/terms/p/pipe.asp)
+- VC-Backed is the typical type of deal, where a private company is already raising funds with VC's.
+
+
+**Example Investment Summary**  
+$30M, growing YoY, CEO likes TCV, etc…
+
+
+---
+**DEPRECATED TERMS**  
+> **What is H&M?**  
+Stands for "Hearts & Mind"... which is an interest level reserved for the top 20 companies.
+`
+
+>**What is BPC?**
+Stands for "Best Private Companies"... which is an interest level reserved for the top 100 companies.~~ - Will soon be deprecated.
+
+---
 
 ## VC & Finance Terms  
 **What is a VC** - _Venture Capitalist_  
@@ -81,19 +100,3 @@ https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/hedg
 https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/venture-capital-investing/
 
 https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/venture-capitalists/
-
-## Sourcer - _Company Accounts_  
-
-**What are Lead Sponsors**  
-Reserved for investors that have a majority stake in a company.
-Very useful to know, especially if the investor is a competitor.
-
-
-**What are Deal Types** - _(Artemis, PIPE, VC-Backed)_
-- Artemis, named after the goddes of the hunt, is a term used for hidden gem companies. These companies are decently scaled, generating revenue (ideally growing), and have little to no previous funding.
-- PIPE (Private Investment In Public Equity) is when an investor buys stock directly from a public company below market price. This is how TCV invested in Netflix. [Read more](https://www.investopedia.com/terms/p/pipe.asp)
-- VC-Backed is the typical type of deal, where a private company is already raising funds with VC's.
-
-
-**Example Investment Summary**  
-$30M, growing YoY, CEO likes TCV, etc…
