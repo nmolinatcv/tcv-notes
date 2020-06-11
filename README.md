@@ -9,7 +9,7 @@ Principal or VP. See `Pods & Heirarchy` for more info.
 Teams are broken up into pods of analysts, associates and VP's. The pods all report to a Principal/Partner, but
 they're not usually involved in the day to day matters, instead pods are generally led by VP's.
 
-> Analyst -> Associate -> VP -> Principal/Partners
+`Analyst -> Associate -> VP -> Principal/Partners`
 
 
 **What are Lead Sponsors**  
