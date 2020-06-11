@@ -33,17 +33,17 @@ $30M, growing YoY, CEO likes TCV, etc…
 Stands for "Hearts & Mind"... which is an interest level reserved for the top 20 companies.
 `
 
->**What is BPC?**
+>**What is BPC?**  
 Stands for "Best Private Companies"... which is an interest level reserved for the top 100 companies.~~ - Will soon be deprecated.
 
 ---
 
 ## VC & Finance Terms  
 **What is a VC** - _Venture Capitalist_  
-Investors who provide financing to start-ups or small companies that are looking to expand. Venture capitalists are usually formed as limited partnerships (LP) where the partners invest in the VC fund. The fund normally has a committee that is tasked with making investment decisions.
+Investors who provide financing to start-ups or small companies that are looking to expand. Venture capitalists are usually formed as limited partnerships where the partners invest in the VC fund. The fund normally has a committee that is tasked with making investment decisions.
 
 **What is an LP**  - _Limited Partner_  
-A term used for investors in venture capital funds. Typically they're pension funds, insurance companies or corporations, but they can also be wealthy individuals or governments looking to stimulate the startup ecosystem. 
+ Investors in a VC fund are referred to as LP's.
 
 **2 & 20**  
 Compensation structure where 2% represents a management fee applied to the total assets and
