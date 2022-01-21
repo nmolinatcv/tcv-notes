@@ -57,6 +57,13 @@ Allows investors to measure how much value an investment has generated. It's a g
 it is calculated before fees and carry.  MOIC = (Realized Value + Unrealized Value) / Total Invested
 [Read more](https://www.cobaltlp.com/blog/moic-private-equity/)
 
+**IRR** - _Internal Rate of Return_  
+The annual rate of growth that an investment is expected to generate.
+Generally speaking, the higher an internal rate of return, the more desirable an investment is to undertake.
+IRR is uniform for investments of varying types and, as such, can be used to rank multiple prospective investments
+or projects on a relatively even basis. In general, when comparing investment options with other similar
+characteristics, the investment with the highest IRR probably would be considered the best.
+[Read more](https://www.investopedia.com/terms/i/irr.asp)
 
 **EBITDA** - _Earnings before interest, tax, depreciation and amortization_  
 A measure of a company's operating performance. Essentially, it's a way to evaluate a company's 
